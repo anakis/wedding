@@ -24,12 +24,12 @@ const websiteContent = (
 
     <Sticky enabled={true}>
       <Menu id="menu"
-        items={[{ label: 'THE BRIDE & GROOM', href: 'brideandgroom' },
-                { label: 'THE WEDDING', href: 'wedding' },
+        items={[{ label: 'OS NOIVOS', href: 'brideandgroom' },
+                { label: 'O CASAMENTO', href: 'wedding' },
                 { label: 'RSVP', href: 'rsvp' },
-                { label: 'LOGISTICS', href: 'logistics' },
-                { label: 'THINGS TO DO', href: 'thingstodo' },
-                { label: 'GIFTS', href: 'gifts' }]}>
+                { label: 'LOGÍSTICA', href: 'logistics' },
+                { label: 'COISAS PARA FAZER', href: 'thingstodo' },
+                { label: 'PRESENTES', href: 'gifts' }]}>
       </Menu>
     </Sticky>
 
